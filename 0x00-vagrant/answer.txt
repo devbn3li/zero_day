@@ -1,0 +1,3 @@
+When we run uname without any option, it prints the name of the operating system, like so:
+
+Linux
