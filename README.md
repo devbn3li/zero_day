@@ -10,6 +10,3 @@ To get started with this project, you will need to install Git on your computer 
 
 This project is for learning purposes only, and contributions are not accepted. However, feel free to fork the repository and use it as a starting point for your own projects.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
